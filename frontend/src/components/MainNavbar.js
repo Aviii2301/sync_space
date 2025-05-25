@@ -17,7 +17,7 @@ const MainNavbar = () => {
   
       <Navbar expand="md" fixed="top"  className='navbarMain'>
         <Container>
-          <Navbar.Brand className='title' href="#home">ProjectBoard</Navbar.Brand>
+          <Navbar.Brand className='title' href="#home">SyncSpace</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" className='toggleBtn1'/>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto navItems">

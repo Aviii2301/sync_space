@@ -250,11 +250,11 @@ const Signup = () => {
                         </Container>
                     </Row>
                     <br></br>
-                    <Row>
+                    {/* <Row>
                         <Container className='headingCont'>
                             <p className='accountTxt'>See how it works <WatchVideo/></p>
                         </Container>
-                    </Row>
+                    </Row> */}
                 </Container>
 
 
